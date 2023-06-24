@@ -1,0 +1,29 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+
+
+#kartka {
+    width: 480px;
+    height: 400px;
+    padding: 10px;
+    padding-top: 4em;
+    margin: auto;
+}
+
+#zdjecie {
+    height: 450px;
+    width: auto;
+}
+
+#opis {
+    height: 300px;
+    width: auto;
+}
+
+body {
+    background-image: url('/build/img/1.png');
+
+}
+
