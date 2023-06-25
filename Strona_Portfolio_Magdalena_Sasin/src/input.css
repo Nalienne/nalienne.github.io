@@ -2,6 +2,10 @@
 @tailwind components;
 @tailwind utilities;
 
+body {
+    background-image: url("../build/img/1.png");
+
+}
 
 
 #kartka {
@@ -22,8 +26,5 @@
     width: auto;
 }
 
-body {
-    background-image: url("../build/img/1.png");
 
-}
 
