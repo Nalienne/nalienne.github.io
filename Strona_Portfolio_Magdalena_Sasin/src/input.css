@@ -23,7 +23,7 @@
 }
 
 body {
-    background-image: url('../build/img/1.png');
+    background-image: "../build/img/1.png";
 
 }
 
